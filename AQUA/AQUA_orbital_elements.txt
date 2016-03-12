@@ -1,0 +1,10 @@
+eccentricity, 0.01203
+semi_major_axis, 7077.75;
+inclination, 39.99;
+longitude_of_the_ascending_node;
+argument_of_periapsis;
+mean_anomaly_at_epoch;
+
+perigee, 691;
+apogee, 708;
+period, 98.4;

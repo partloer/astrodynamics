@@ -1,0 +1,10 @@
+semi_major_axis
+eccentricity
+inclination, 98.12;
+argument_of_periapsis
+time_of_periapsis_passage
+longitude_of_ascending_node
+perigee, 688.4;
+apogee, 690.7;
+period, 98.4;
+epoch, 9 May 2015, 021000Z

@@ -1,0 +1,13 @@
+semi_major_axis, 7077.7;
+eccentricity, 0.0001463;
+inclination, 98.1991;
+argument_of_periapsis
+time_of_periapsis_passage
+longitude_of_ascending_node
+perigee, 705;
+apogee, 725;
+period, 98.8;
+argument_of_perigee, 94.9883;
+mean_anomaly, 265.1483;
+mean_motion, 14.57127432;
+epoch, 01 Oct 2013, 114900Z;
