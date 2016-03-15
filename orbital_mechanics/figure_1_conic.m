@@ -1,3 +1,4 @@
-%Conic
+%Conic Section
 
 clf %clear current figure
+
