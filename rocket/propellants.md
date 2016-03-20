@@ -67,3 +67,29 @@ Composite propellants are often identified by the type of polymeric binder used.
 Solid propellant motors have a variety of uses. Small solids often power the final stage of a launch vehicle, or attach to payloads to boost them to higher orbits. Medium solids such as the Payload Assist Module (PAM) and the Inertial Upper Stage (IUS) provide the added boost to place satellites into geosynchronous orbit or on planetary trajectories.
 
 The Titan, Delta, and Space Shuttle launch vehicles use strap-on solid propellant rockets to provide added thrust at liftoff. The Space Shuttle uses the largest solid rocket motors ever built and flown. Each booster contains 500,000 kg of propellant and can produce up to 14,680,000 Newtons of thrust.
+
+##Hybrid Propellants
+Hybrid propellant engines represent an intermediate group between solid and liquid propellant engines. One of the substances is solid, usually the fuel, while the other, usually the oxidizer, is liquid. The liquid is injected into the solid, whose fuel reservoir also serves as the combustion chamber. The main advantage of such engines is that they have high performance, similar to that of solid propellants, but the combustion can be moderated, stopped, or even restarted. It is difficult to make use of this concept for vary large thrusts, and thus, hybrid propellant engines are rarely built.
+
+A hybrid engine burning nitrous oxide as the liquid oxidizer and HTPB rubber as the solid fuel powered the vehicle SpaceShipOne, which won the Ansari X-Prize.
+
+Compound | Chemical Formula | Molecular Weight | Density | Melting Point | Boiling Point
+-------- | ---------------- | ---------------- | ------- | ------------- | -------------
+Liquid Oxygen | O<sub>2</sub> | 32.00 | 1.14 g/ml | -218.8 C | -183.0 C
+Liquid Fluorine | F<sub>2</sub> | 38.00 | 1.50 g/ml | -219.6 C | -188.1 C
+Nitrogen Tetroxide | N<sub>2</sub>O<sub>4</sub> | 92.01 | 1.45 g/ml | -9.3 C | 21.1 C
+Nitric Acid | NHO<sub>3</sub> | 92.01 | 1.45 g/ml | -9.3 C | 83.0 C
+Hydrogen Peroxide | N<sub>2</sub>O<sub>2</sub> | 34.02 | 1.44 g/ml | -0.4 C | 150.2 C
+Nitrous Oxide | N<sub>2</sub>O | 44.01 | 1.22 g/ml | -90.8 C | -88.5 C
+Chlorine Pentafluoride | ClF<sub>5</sub> | 130.45 | 1.9 g/ml | -103 C | -13.1 C
+Ammonium Perchlorate | NH<sub>4</sub>ClO<sub>4</sub> | 117.49 | 1.95 g/ml | 240 C | N/A
+Liquid Hydrogen | H<sub2</sub> | 2.016 | 0.071 g/ml | -259.3 C | -252.9 C
+Liquid Methane | CH<sub>4</sub> | 16.04 | 0.423 g/ml | -182.5 C | -161.6 C
+Ethyl Alcohol | C<sub>2</sub>H<sub>5</sub>OH | 46.07 | 0.789 g/ml | -114.1 C | 78.2 C
+n-Dodecane (Kerosene) |	C<sub>12</sub>H<sub>26</sub> | 170.34 | 0.749 g/ml | -9.6 C | 216.3 C
+RP-1 | C<sub>n</sub>H<sub>1.953n</sub> | ~175 | 0.820 g/ml | N/A | 177-274 C
+Hydrazine | N<sub>2</sub>H<sub>4</sub> | 32.05 | 1.004 g/ml | 1.4 C | 113.5 C
+Methyl Hydrazine | CH<sub>3</sub>NHNH<sub>2</sub> | 46.07 | 0.866 g/ml | -52.4 C	87.5 C
+Dimethyl Hydrazine | (CH3)<sub>2</sub>NNH<sub>2</sub> | 60.10 | 0.791 g/ml | -58 C | 63.9 C
+Aluminum | Al | 26.98 | 2.70 g/ml | 660.4 C | 2467 C
+Polybutadiene | (C<sub>4</sub>H<sub>6</sub>)<sub>n</sub> | ~3000 | ~0.93 g/ml | N/A | N/A
