@@ -29,3 +29,26 @@ Another cryogenic fuel with desirable properties for space propulsion systems is
 Liquid fluorine (-188 deg C) burning engines have also been developed and fired successfully. Fluorine is not only extremely toxic; it is a super-oxidizer that reacts, usually violently, with almost everything except nitrogen, the lighter noble gases, and substances that have already been fluorinated. Despite these drawbacks, fluorine produces very impressive engine performance. It can also be mixed with liquid oxygen to improve the performance of LOX-burning engines; the resulting mixture is called FLOX. Because of fluorine's high toxicity, it has been largely abandoned by most space-faring nations.
 
 Some fluorine containing compounds, such as chlorine pentafluoride, have also been considered for use as an 'oxidizer' in deep-space applications.
+
+
+###Hypergolic
+Hypergolic propellants are fuels and oxidizers that ignite spontaneously on contact with each other and require no ignition source. The easy start and restart capability of hypergols make them ideal for spacecraft maneuvering systems. Also, since hypergols remain liquid at normal temperatures, they do not pose the storage problems of cryogenic propellants. Hypergols are highly toxic and must be handled with extreme care.
+
+Hypergolic fuels commonly include hydrazine, monomethyl hydrazine (MMH) and unsymmetrical dimethyl hydrazine (UDMH). Hydrazine gives the best performance as a rocket fuel, but it has a high freezing point and is too unstable for use as a coolant. MMH is more stable and gives the best performance when freezing point is an issue, such as spacecraft propulsion applications. UDMH has the lowest freezing point and has enough thermal stability to be used in large regeneratively cooled engines. Consequently, UDMH is often used in launch vehicle applications even though it is the least efficient of the hydrazine derivatives. Also commonly used are blended fuels, such as Aerozine 50 (or "50-50"), which is a mixture of 50% UDMH and 50% hydrazine. Aerozine 50 is almost as stable as UDMH and provides better performance.
+
+The oxidizer is usually nitrogen tetroxide (NTO) or nitric acid. In the United States, the nitric acid formulation most commonly used is type III-A, called inhibited red-fuming nitric acid (IRFNA), which consists of HNO3 + 14% N2O4 + 1.5-2.5% H2O + 0.6% HF (added as a corrosion inhibitor). Nitrogen tetroxide is less corrosive than nitric acid and provides better performance, but it has a higher freezing point. Consequently, nitrogen tetroxide is usually the oxidizer of choice when freezing point is not an issue, however, the freezing point can be lowered with the introduction nitric oxide. The resulting oxidizer is called mixed oxides of nitrogen (MON). The number included in the description, e.g. MON-3 or MON-25, indicates the percentage of nitric oxide by weight. While pure nitrogen tetroxide has a freezing point of about -9 oC, the freezing point of MON-3 is -15 oC and that of MON-25 is -55 oC.
+
+USA military specifications for IRFNA were first published in 1954, followed in 1955 with UDMH specifications.
+
+The Titan family of launch vehicles and the second stage of the Delta II rocket use NTO/Aerozine 50 propellant. NTO/MMH is used in the orbital maneuvering system (OMS) and reaction control system (RCS) of the Space Shuttle orbiter. IRFNA/UDMH is often used in tactical missiles such as the US Army's Lance (1972-91).
+
+Hydrazine is also frequently used as a monopropellant in catalytic decomposition engines. In these engines, a liquid fuel decomposes into hot gas in the presence of a catalyst. The decomposition of hydrazine produces temperatures up to about 1,100 oC (2,000 oF) and a specific impulse of about 230 or 240 seconds. Hydrazine decomposes to either hydrogen and nitrogen, or ammonia and nitrogen.
+
+###Other Propellants
+Other propellants have also been used, a few of which deserve mentioning:
+
+Alcohols were commonly used as fuels during the early years of rocketry. The German V-2 missile, as well as the USA Redstone, burned LOX and ethyl alcohol (ethanol), diluted with water to reduce combustion chamber temperature. However, as more efficient fuels where developed, alcohols fell into general disuse.
+
+Hydrogen peroxide once attracted considerable attention as an oxidizer and was used in Britain's Black Arrow rocket. In high concentrations, hydrogen peroxide is called high-test peroxide (HTP). The performance and density of HTP is close to that of nitric acid, and it is far less toxic and corrosive; however it has a poor freezing point and is unstable. Although HTP never made it as an oxidizer in large bi-propellant applications, it has found widespread use as a monopropellant. In the presence of a catalyst, HTP decomposes into oxygen and superheated steam and produces a specific impulse of about 150 s.
+
+Nitrous oxide has been used as both an oxidizer and as a monopropellant. It is the oxidizer of choice for many hybrid rocket designs and has been used frequently in amateur high-powered rocketry. In the presence of a catalyst, nitrous oxide will decompose exothermically into nitrogen and oxygen and produce a specific impulse of about 170 s.
