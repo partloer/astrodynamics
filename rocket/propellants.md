@@ -93,3 +93,5 @@ Methyl Hydrazine | CH<sub>3</sub>NHNH<sub>2</sub> | 46.07 | 0.866 g/ml | -52.4 C
 Dimethyl Hydrazine | (CH3)<sub>2</sub>NNH<sub>2</sub> | 60.10 | 0.791 g/ml | -58 C | 63.9 C
 Aluminum | Al | 26.98 | 2.70 g/ml | 660.4 C | 2467 C
 Polybutadiene | (C<sub>4</sub>H<sub>6</sub>)<sub>n</sub> | ~3000 | ~0.93 g/ml | N/A | N/A
+
+"Basics of Space Flight: Orbital Mechanics", Braeunig.us, 2016. [Online]. Available: [http://www.braeunig.us/space/orbmech.htm](http://www.braeunig.us/space/orbmech.htm). [Accessed: 01- Jan- 2016].

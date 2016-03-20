@@ -4,10 +4,10 @@ A conic section, or just conic, is a curve formed by passing a plane through a r
 We can define all conic sections in terms of the eccentricity.  Type of conic section is also related to the semi-major axis and the energy.  The table below shows the relationship between eccentricity, semi-major axis, and energy and the type of conic section.  
 
 Conic Section | Eccentricity (e) | Semi-major axis | Energy
-Circle | 0 | =radius | <0
-Ellipse | 0<e<1 | >0 | <0
+Circle | 0 | = radius | < 0
+Ellipse | 0 < e < 1 | > 0 | < 0
 Parabola | 1 | infinity | 0
-Hyperbola | >1 | <0 | >0
+Hyperbola | > 1 | < 0 | > 0
 
 Satellite orbits can be any four conic section.
 
