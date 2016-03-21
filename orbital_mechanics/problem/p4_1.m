@@ -5,9 +5,9 @@ circular orbit at an altitude of 200 km above the Earth's surface.
 
 % Given:
 r_earth = 6378.14; % km
-GM_earth = 3.986005*10^14; % m^3/s^2
+GM = 3.986005*10^14; % m^3/s^2
 r = (r_earth + 200) * 1000; % m
 
-% Equation
-v = sqrt(GM_earth / r);
+% Equation:
+v = sqrt(GM / r);
 display(v);
