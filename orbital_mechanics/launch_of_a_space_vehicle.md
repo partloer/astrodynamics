@@ -76,3 +76,5 @@ If beta, delta, and lambda<sub>2</sub> are given, the other values can be calcul
 In equation (4.36), the value of nu is found using equation (4.28) or (4.31). If nu is positive, periapsis is west of the burnout point (as shown in Figure 4.10); if nu is negative, periapsis is east of the burnout point.
 
 The longitude of the ascending node, Omega, is measured in celestial longitude, while lambda<sub>1</sub> is geographical longitude. The celestial longitude of the ascending node is equal to the local apparent sidereal time, in degrees, at longitude lambda<sub>1</sub> at the time of engine burnout. Sidereal time is defined as the hour angle of the vernal equinox at a specific locality and time; it has the same value as the right ascension of any celestial body that is crossing the local meridian at that same instant. At the moment when the vernal equinox crosses the local meridian, the local apparent sidereal time is 00:00. See this sidereal time calculator.
+
+"Basics of Space Flight: Orbital Mechanics", Braeunig.us, 2016. [Online]. Available: [http://www.braeunig.us/space/orbmech.htm](http://www.braeunig.us/space/orbmech.htm). [Accessed: 01- Jan- 2016].

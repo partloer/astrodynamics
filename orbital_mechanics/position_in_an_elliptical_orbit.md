@@ -30,3 +30,5 @@ At any time in its orbit, the magnitude of a spacecraft's position vector, i.e. 
 And the spacecraft's velocity is given by,
 
 4.45
+
+"Basics of Space Flight: Orbital Mechanics", Braeunig.us, 2016. [Online]. Available: [http://www.braeunig.us/space/orbmech.htm](http://www.braeunig.us/space/orbmech.htm). [Accessed: 01- Jan- 2016].

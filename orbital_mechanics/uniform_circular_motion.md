@@ -12,3 +12,5 @@ The direction of F at any instant must be in the direction of a at the same inst
 A satellite in orbit is acted on only by the forces of gravity. The inward acceleration which causes the satellite to move in a circular orbit is the gravitational acceleration caused by the body around which the satellite orbits. Hence, the satellite's centripetal acceleration is g, that is g = v2/r. From Newton's law of universal gravitation we know that g = GM /r2. Therefore, by setting these equations equal to one another we find that, for a circular orbit,
 
 4.6
+
+"Basics of Space Flight: Orbital Mechanics", Braeunig.us, 2016. [Online]. Available: [http://www.braeunig.us/space/orbmech.htm](http://www.braeunig.us/space/orbmech.htm). [Accessed: 01- Jan- 2016].

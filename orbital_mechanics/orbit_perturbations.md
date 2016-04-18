@@ -65,3 +65,5 @@ Solar radiation pressure causes periodic variations in all of the orbital elemen
 4.57
 
 where A is the cross-sectional area of the satellite exposed to the Sun and m is the mass of the satellite in kilograms. For satellites below 800 km altitude, acceleration from atmospheric drag is greater than that from solar radiation pressure; above 800 km, acceleration from solar radiation pressure is greater.
+
+"Basics of Space Flight: Orbital Mechanics", Braeunig.us, 2016. [Online]. Available: [http://www.braeunig.us/space/orbmech.htm](http://www.braeunig.us/space/orbmech.htm). [Accessed: 01- Jan- 2016].
