@@ -1,7 +1,0 @@
-semi_major_axis, 67000;
-eccentricity, 0.001;
-inclination, 89.0;
-argument_of_periapsis
-time_of_periapsis_passage
-longitude_of_ascending_node
-period, 91;
